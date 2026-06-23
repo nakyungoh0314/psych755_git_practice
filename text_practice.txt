@@ -3,7 +3,11 @@ This is a file we can edit and incorporate version control using git.
 I now have added new info to this. This is information. 
 
 adding more info here
+<<<<<<< HEAD
 
 -------------------------------------------------------------------------
 
 Heyyyy it's 06/22/2026 today!
+=======
+Shivya test
+>>>>>>> upstream/main
